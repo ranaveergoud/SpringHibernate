@@ -71,6 +71,7 @@ public class AppMain {
 		for (Employee emp : employeeList) {
 			System.out.println(emp);
 		}
+		System.out.println("second print");
 
 		context.close();
 	}
